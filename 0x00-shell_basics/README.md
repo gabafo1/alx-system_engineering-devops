@@ -14,3 +14,4 @@ This repository contains minimal Bash scripts designed to perform specific tasks
 5. `4-listmorefiles`: Display current directory contents, including hidden files (starting with .). Use the long format.
 6. `5-listfilesdigitonly`: Display current directory contents.
 7. `6-firstdirectory`: Create a script that creates a directory named my_first_directory in the /tmp/ directory
+8. `7-movethatfile`: Move the file betty from /tmp/ to /tmp/my_first_directory
