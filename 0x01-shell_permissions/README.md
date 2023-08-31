@@ -27,3 +27,7 @@ This script is a simple way to create an empty file named "hello" on a Unix-like
 # Add Execute Permission Script
 
 This script is a simple way to add execute permission to the owner of a file named "hello" on a Unix-like system.
+
+# Add Execute and Read Permissions to File
+
+This repository contains a simple script that demonstrates how to add execute permission to the owner and group owner, and read permission to other users, for a file named `hello`.
