@@ -1,3 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -name "*.html" -newer ../ -exec cp -n {} ../ \&\& echo {} \; | sed -n '/^\.*\.\/\w\+\.html$/p'
-
+cp -u *.html ..
