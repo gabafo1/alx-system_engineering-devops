@@ -35,3 +35,7 @@ This repository contains a simple script that demonstrates how to add execute pe
 # Adding Execution Permissions to "hello" File
 
 This simple script allows you to add execution permissions to the owner, group owner, and other users for a file named "hello" in the current working directory.
+
+#Setting Permissions for "hello" File
+
+This script allows you to set specific permissions for the "hello" file in the current working directory.
