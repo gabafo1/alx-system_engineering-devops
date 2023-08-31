@@ -23,3 +23,7 @@ This script is a simple way to change the owner of a file named "hello" to the u
 # Create Empty File Script
 
 This script is a simple way to create an empty file named "hello" on a Unix-like system.
+
+# Add Execute Permission Script
+
+This script is a simple way to add execute permission to the owner of a file named "hello" on a Unix-like system.
