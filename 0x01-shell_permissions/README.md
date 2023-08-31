@@ -16,3 +16,7 @@ This script is a simple way to print the effective username of the current user 
 
 This script is a simple way to print a list of groups that the current user is a part of on a Unix-like system.
 
+# Change File Owner Script
+
+This script is a simple way to change the owner of a file named "hello" to the user "betty" on a Unix-like system.
+
