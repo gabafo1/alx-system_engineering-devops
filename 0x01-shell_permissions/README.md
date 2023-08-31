@@ -20,3 +20,6 @@ This script is a simple way to print a list of groups that the current user is a
 
 This script is a simple way to change the owner of a file named "hello" to the user "betty" on a Unix-like system.
 
+# Create Empty File Script
+
+This script is a simple way to create an empty file named "hello" on a Unix-like system.
