@@ -18,3 +18,4 @@ This repository contains minimal Bash scripts designed to perform specific tasks
 9.  `8-firstdelete`: Delete the file betty.
 10. `9-firstdirdeletion`: Delete the directory my_first_directory that is in the /tmp directory.
 11. `10-back: Write a script that changes the working directory to the previous one
+12. `11-lists: Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory
