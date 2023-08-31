@@ -22,5 +22,6 @@ This repository contains minimal Bash scripts designed to perform specific tasks
 13. `12-file_type`: Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 14. `13-symbolic_link`: Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 15. `14-copy_html`: Create a script that copies all the HTML files from the current working directory to the parent of the working directory
-16. `100-lets_move`: Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
-17. `101-clean_emacs`: Create a script that deletes all files in the current working directory that end with the character ~.
+16. `15-lets_move`: Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+17. `16 clean_emacs`: Create a script that deletes all files in the current working directory that end with the character ~.
+18. `17. Tree`: Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
