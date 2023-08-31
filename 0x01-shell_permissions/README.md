@@ -31,3 +31,7 @@ This script is a simple way to add execute permission to the owner of a file nam
 # Add Execute and Read Permissions to File
 
 This repository contains a simple script that demonstrates how to add execute permission to the owner and group owner, and read permission to other users, for a file named `hello`.
+
+# Adding Execution Permissions to "hello" File
+
+This simple script allows you to add execution permissions to the owner, group owner, and other users for a file named "hello" in the current working directory.
