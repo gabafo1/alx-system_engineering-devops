@@ -10,3 +10,4 @@ This repository contains minimal Bash scripts designed to perform specific tasks
 1. `0-current_working_directory.sh`: Prints the absolute path of the current working directory.
 2. `1-listfiles`: Display the contents list of your current directory.
 3. `2-bring_me_home`: Write a script that changes the working directory to the user’s home directory.
+4. `3-listfiles`: Display current directory contents in a long format
