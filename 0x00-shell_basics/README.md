@@ -1,5 +1,5 @@
 # Task Name
-Where am I?
+Shell, Basic
 
 ## Description
 
@@ -8,3 +8,4 @@ This repository contains minimal Bash scripts designed to perform specific tasks
 ## Scripts
 
 1. `0-current_working_directory.sh`: Prints the absolute path of the current working directory.
+2. `1-listfiles`: Display the contents list of your current directory.
